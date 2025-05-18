@@ -1,7 +1,7 @@
 import mongoose from "mongoose";
 
 const URI =
-  "mongodb+srv://adminDB:adminDB@cluster0.josyexb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+  "mongodb+srv://avez3npqureshi:ecomm@cluster0.iqgv1yt.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 
 export const dataBaseConnection = async () => {
   try {
